@@ -46,7 +46,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
+	<packaging>pom</packaging>
 	<build>
 		<plugins>
 			<plugin>
